@@ -1,25 +1,25 @@
-# Learning React: Second Edition ⚛️
+# Learning React: Segunda Edición ⚛️
 
-This repository contains the files for the book _Learning React_ by [Alex Banks](https://twitter.com/moontahoe) and [Eve Porcello](https://twitter.com/eveporcello) of [Moon Highway](https://moonhighway.com).
+Este repositorio contiene los archivos del libro _Learning React_ de [Alex Banks](https://twitter.com/moontahoe) y [Eve Porcello](https://twitter.com/eveporcello) de [Moon Highway](https://moonhighway.com).
 
 |                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Learning React Book Cover](https://raw.githubusercontent.com/MoonHighway/learning-react/second-edition/learning-react.jpg) | If you want to learn how to build efficient React applications, this is your book. This updated edition provides best practices and patterns for writing modern React code including a deep dive on React Hooks.<br><br> **Get the book**: [Amazon](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721) - [O'Reilly](http://shop.oreilly.com/product/0636920252894.do)<br>**Get React Training**: [Moon Highway](http://www.moonhighway.com)<br><br> |
-| ![Learning React Book v1](https://raw.githubusercontent.com/MoonHighway/learning-react/second-edition/learning-react-v1.jpg) | *Looking for the first edition files? Check out the [first-edition branch](https://github.com/MoonHighway/learning-react/tree/master).*|
+| ![Learning React Book Cover](https://raw.githubusercontent.com/MoonHighway/learning-react/second-edition/learning-react.jpg) | Si deseas aprender a crear aplicaciones React eficientes, este es su libro. Esta edición actualizada proporciona las mejores prácticas y patrones para escribir código de React moderno, incluido un análisis profundo de React Hooks. <br><br> **Consigue el libro AQUÍ** (Inglés): [Amazon](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721) - [O'Reilly](http://shop.oreilly.com/product/0636920252894.do)<br>**Get React Training**: [Moon Highway](http://www.moonhighway.com)<br><br> |
+| ![Learning React Book v1](https://raw.githubusercontent.com/MoonHighway/learning-react/second-edition/learning-react-v1.jpg) | *¿Buscando los archivos de la primera edición? Consulta la [rama de la primera edición] (https://github.com/MoonHighway/learning-react/tree/master).*|
 
-> "This is the React book that’s been missing from the frontend community. Alex and Eve not only discuss React in-depth but cover foundational JavaScript concepts, testing, state management, and more. Plus, they do so with approachable language and humor. I cannot recommend Learning React highly enough." - [Emma Bostian](https://twitter.com/emmabostian), Software Engineer at Spotify
+> "Este es el libro de React que falta en la comunidad de frontend. Alex y Eve no solo discuten React en profundidad, sino que cubren conceptos básicos de JavaScript, pruebas, administración de estados y más. Además, lo hacen con un lenguaje y humor accesibles. No puedo recomendar lo suficiente Learning React - [Emma Bostian](https://twitter.com/emmabostian), Ingeniera de Software en Spotify
 
 ### Table of Contents
 
-- **Chapter 1** : [Welcome To React](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-01)
-- **Chapter 2** : [Emerging JavaScript](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-02)
-- **Chapter 3** : [Functional Programming with JavaScript](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-03)
-- **Chapter 4** : [Pure React](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-04)
-- **Chapter 5** : [React with JSX](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-05)
-- **Chapter 6** : [React State Management](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-06)
-- **Chapter 7** : [Enhancing Components with Hooks](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-07)
-- **Chapter 8** : [Incorporating Data](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-08)
-- **Chapter 9** : [Suspense](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-09)
-- **Chapter 10** : [Testing](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-10)
-- **Chapter 11** : [React Router](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-11)
-- **Chapter 12** : [React and the Server](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-12)
+- **Capítulo 1** : [Bienvenido a React](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-01)
+- **Capítulo 2** : [JavaScript Emergente](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-02)
+- **Capítulo 3** : [Programación funcional con JavaScript](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-03)
+- **Capítulo 4** : [React Puro](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-04)
+- **Capítulo 5** : [React con JSX](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-05)
+- **Capítulo 6** : [React State Management](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-06)
+- **Capítulo 7** : [Enhancing Components with Hooks](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-07)
+- **Capítulo 8** : [Incorporating Data](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-08)
+- **Capítulo 9** : [Suspense](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-09)
+- **Capítulo 10** : [Testing](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-10)
+- **Capítulo 11** : [React Router](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-11)
+- **Capítulo 12** : [React y el Server](https://github.com/MoonHighway/learning-react/tree/second-edition/chapter-12)
