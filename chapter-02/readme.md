@@ -1,83 +1,82 @@
-# Chapter 2 : Emerging JavaScript
+# Capítulo 2: JavaScript emergente
 
-If you haven't made the switch to the latest JavaScript syntax yet, now is a good time to get started.
+Si aún no ha realizado el cambio a la última sintaxis de JavaScript, ahora es un buen momento para comenzar.
 
-## Samples
+## Muestras
 
-### Declaring Variables in ES6
+### Declaración de variables en ES6
 
 #### const
 
-1. Without const ([run it](http://jsbin.com/gapoxa/1/edit?js,console))
-2. With const ❌ ([run it](https://jsbin.com/gapoxa/2/edit?js,console))
+1. Sin const ([ejecutar código](http://jsbin.com/gapoxa/1/edit?js,console))
+2. Con const ❌ ([ejecutar código](https://jsbin.com/gapoxa/2/edit?js,console))
 
 #### let
 
-3. Without let ([run it](https://jsbin.com/gapoxa/3/edit?js,console))
-4. With let ([run it](https://jsbin.com/gapoxa/4/edit?js,console))
-5. Loops with var ([run it](http://jsbin.com/gapoxa/5/edit?js,output))
-6. Loops with let ([run it](http://jsbin.com/gapoxa/6/edit?js,output))
+3. Sin let ([ejecutar código](https://jsbin.com/gapoxa/3/edit?js,console))
+4. Con let ([ejecutar código](https://jsbin.com/gapoxa/4/edit?js,console))
+5. Bucles con var ([ejecutar código](http://jsbin.com/gapoxa/5/edit?js,output))
+6. Bucles con let ([ejecutar código](http://jsbin.com/gapoxa/6/edit?js,output))
 
-#### template strings
+#### cadenas de plantilla
 
-7. Without Template Strings - Simple Concatenation ([run it](https://jsbin.com/gapoxa/7/edit?js,console))
-8. With Template Strings - Simple concatenation ([run it](https://jsbin.com/gapoxa/8/edit?js,console))
-9. Template Strings - Email ([run it](https://output.jsbin.com/gapoxa/9))
-10. Template Strings - HTML ([run it](https://jsbin.com/gapoxa/10/edit?js,output))
+7. Sin cadenas de plantillas: concatenación simple ([ejecutar código](https://jsbin.com/gapoxa/7/edit?js,console))
+8. Con cadenas de plantillas: concatenación simple ([ejecutar código](https://jsbin.com/gapoxa/8/edit?js,console))
+9. Cadenas de plantilla: email ([ejecutar código](https://output.jsbin.com/gapoxa/9))
+10. Cadenas de plantilla - HTML ([ejecutar código](https://jsbin.com/gapoxa/10/edit?js,output))
 
-### Default Parameters
+### Parámetros por defecto
 
-1. Default Parameters ([run it](http://jsbin.com/yeqexu/1/edit?js,console))
-2. Default Parameters with Objects ([run it](http://jsbin.com/yeqexu/2/edit?js,console))
+1. Parámetros por defecto ([ejecutar código](http://jsbin.com/yeqexu/1/edit?js,console))
+2. Parámetros por defecto con objetos ([ejecutar código](http://jsbin.com/yeqexu/2/edit?js,console))
 
-### Arrow functions
+### Funciones flecha
 
-1. Regular Function
-   ([run it](http://jsbin.com/tegefa/1/edit?js,console))
-2. Arrow Function ([run it](http://jsbin.com/tegefa/2/edit?js,console))
-3. Arrow Function - Multiple Args ([run it](http://jsbin.com/tegefa/3/edit?js,console))
-4. Multiple Args - One Line ([run it](http://jsbin.com/tegefa/4/edit?js,console))
-5. Arrow Functions with if statements ❌ ([run it](http://jsbin.com/tegefa/5/edit?js,console))
-6. Arrow Functions with errors ❌ ([run it](http://jsbin.com/tegefa/6/edit?js,console))
-7. setTimeout ❌ ([run it](http://jsbin.com/tegefa/7/edit?js,console))
-8. setTimeout with .bind ([run it](http://jsbin.com/tegefa/8/edit?js,console))
-9. setTimeout with Arrow Function ([run it](http://jsbin.com/tegefa/9/edit?js,console))
-10. setTimeout with 'this' problem ❌ ([run it](http://jsbin.com/tegefa/10/edit?js,console))
-11. Showing 'this' problem ([run it](http://jsbin.com/tegefa/11/edit?js,console))
+1. Función normal ([ejecutar código](http://jsbin.com/tegefa/1/edit?js,console))
+2. Arrow Function ([ejecutar código](http://jsbin.com/tegefa/2/edit?js,console))
+3. Arrow Function - Argumentos múltiples ([ejecutar código](http://jsbin.com/tegefa/3/edit?js,console))
+4. Argumentos Múltiples - Una Línea ([ejecutar código](http://jsbin.com/tegefa/4/edit?js,console))
+5. Arrow Function con sentencias if ❌ ([ejecutar código](http://jsbin.com/tegefa/5/edit?js,console))
+6. Arrow Function con errores ❌ ([ejecutar código](http://jsbin.com/tegefa/6/edit?js,console))
+7. setTimeout ❌ ([ejecutar código](http://jsbin.com/tegefa/7/edit?js,console))
+8. setTimeout con .bind ([ejecutar código](http://jsbin.com/tegefa/8/edit?js,console))
+9. setTimeout con Arrow Function ([ejecutar código](http://jsbin.com/tegefa/9/edit?js,console))
+10. setTimeout con 'this' ❌ ([ejecutar código](http://jsbin.com/tegefa/10/edit?js,console))
+11. Mostrando 'this' ([ejecutar código](http://jsbin.com/tegefa/11/edit?js,console))
 
-### Objects and Arrays
+### Objetos y matrices
 
-#### Destructuring Assignment
+#### Asignación de Desestructuración
 
-1. Destructuring Assignment ([run it](http://jsbin.com/jukokaf/1/edit?js,console))
-2. Destructuring with Arguments ([run it](http://jsbin.com/jukokaf/2/edit?js,console))
-3. Destructured Object Arguments ([run it](http://jsbin.com/jukokaf/3/edit?js,console))
-4. Destructuring Arrays ([run it](http://jsbin.com/jukokaf/4/edit?js,console))
-5. Destructuring with Comma Placeholders ([run it](http://jsbin.com/jukokaf/5/edit?js,console))
+1. Asignación de desestructuración ([ejecutar código](http://jsbin.com/jukokaf/1/edit?js,console))
+2. Desestructuración con Argumentos ([ejecutar código](http://jsbin.com/jukokaf/2/edit?js,console))
+3. Argumentos de objetos desestructurados ([ejecutar código](http://jsbin.com/jukokaf/3/edit?js,console))
+4. Desestructuración de matrices ([ejecutar código](http://jsbin.com/jukokaf/4/edit?js,console))
+5. Desestructuración con comas ([ejecutar código](http://jsbin.com/jukokaf/5/edit?js,console))
 
-#### Object Literal Enhancement
+#### Mejora de literal de objeto
 
-6. Object Literal Enhancement ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/06-object-literal-enhancement.html), [code](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/06-object-literal-enhancement.html), [bin](http://jsbin.com/jukokaf/6/edit?js,console))
-7. Object Literal Enhancements with Functions ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/07-object-literal-enhancement.html), [code](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/07-object-literal-enhancement.html), [bin](http://jsbin.com/jukokaf/7/edit?js,console))
-8. Literal Enhancements: The Old Way ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/08-object-literal-enhancement.html), [code](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/08-object-literal-enhancement.html), [bin](http://jsbin.com/jukokaf/8/edit?js,console))
-9. Literal Enhancements Now ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/09-object-literal-enhancement.html), [code](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/09-object-literal-enhancement.html), [bin](http://jsbin.com/jukokaf/9/edit?js,console))
+6. Mejora de objetos literales ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/06-object-literal-enhancement.html), [ código](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/06-object-literal-enhancement.html), [bin](http: //jsbin.com/jukokaf/6/editar?js,consola))
+7. Mejoras de objetos literales con funciones ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/07-object-literal-enhancement.html) , [código](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/07-object-literal-enhancement.html), [bin]( http://jsbin.com/jukokaf/7/edit?js,consola))
+8. Mejoras literales: Antes ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/08-object-literal-enhancement.html ), [código](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/08-object-literal-enhancement.html), [bin] (http://jsbin.com/jukokaf/8/edit?js,consola))
+9. Mejoras literales: Ahora ([demo](https://rawgit.com/MoonHighway/learning-react/master/chapter-02/04-objects-and-arrays/09-object-literal-enhancement.html), [ código](http://github.com/MoonHighway/learning-react/blob/master/chapter-02/04-objects-and-arrays/09-object-literal-enhancement.html), [bin](http: //jsbin.com/jukokaf/9/editar?js,consola))
 
-#### The Spread Operator
+#### Spread Operator
 
-10. Spread Operator with Arrays ([run it](http://jsbin.com/jukokaf/10/edit?js,console))
-11. Array Destructuring with .reverse() ([run it](http://jsbin.com/jukokaf/11/edit?js,console))
-12. Spread Operator with Destructuring and .reverse() ([run it](http://jsbin.com/jukokaf/12/edit?js,console))
-13. Destructuring and the Spread Operator ([run it](http://jsbin.com/jukokaf/13/edit?js,console))
-14. Directions Functions ([run it](http://jsbin.com/jukokaf/14/edit?js,console))
-15. Spread Operator with Objects ([run it](http://jsbin.com/jukokaf/15/edit?js,console))
+10. Spread Operator con matrices ([ejecutar código](http://jsbin.com/jukokaf/10/edit?js,console))
+11. Destrucción de matrices con .reverse() ([ejecutar código](http://jsbin.com/jukokaf/11/edit?js,console))
+12. Spread Operator con desestructuración y .reverse() ([ejecutar código](http://jsbin.com/jukokaf/12/edit?js,console))
+13. Destructuración ay el Spread Operator ([ejecutar código](http://jsbin.com/jukokaf/13/edit?js,console))
+14. Funciones de direcciones ([ejecutar código](http://jsbin.com/jukokaf/14/edit?js,console))
+15. Operador de propagación con objetos ([ejecutar código](http://jsbin.com/jukokaf/15/edit?js,console))
 
-### Promises
+### Promesas
 
-1. getFakeMembers ([run it](http://jsbin.com/pupojik/1/edit?js,console))
-2. fetch members ([run it](http://jsbin.com/haguhe/1/edit?js,console))
+1. getFakeMembers ([ejecutar código](http://jsbin.com/pupojik/1/edit?js,console))
+2. fetch members ([ejecutar código](http://jsbin.com/haguhe/1/edit?js,console))
 
-### ES6 Class Syntax
+### Sintaxis de clase ES6
 
-1. The Constructor and the Prototype ([run it](http://jsbin.com/hoqileh/1/edit?js,console))
-2. Classes ([run it](http://jsbin.com/hoqileh/2/edit?js,console))
-3. Class Inheritance ([run it](http://jsbin.com/hoqileh/3/edit?js,console))
+1. El constructor y el prototipo ([ejecutar código](http://jsbin.com/hoqileh/1/edit?js,console))
+2. Clases ([ejecutar código](http://jsbin.com/hoqileh/2/edit?js,console))
+3. Herencia de clase ([ejecutar código](http://jsbin.com/hoqileh/3/edit?js,console))
