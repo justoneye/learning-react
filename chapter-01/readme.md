@@ -69,9 +69,9 @@ Este repositorio se vincula a muestras alojadas en varias plataformas, de modo q
 Finalmente, tenemos algunos enlaces a recursos y documentación oficial de las bibliotecas que usaremos:
 
 - [Documentación de React](https://facebook.github.io/react/index.html)
-- [Fuente de reacción] (https://github.com/facebook/react)
+- [Còdigo fuente de React](https://github.com/facebook/react)
 - [React Blog](https://facebook.github.io/react/blog/)
 - [React NPM](https://www.npmjs.com/package/react)
-- [Documentación de Webpack] (https://webpack.js.org/)
+- [Documentación de Webpack](https://webpack.js.org/)
 - [Documentación de Jest](https://facebook.github.io/jest/)
-- [Documentación de React Router] (https://reacttraining.com/react-router/)
+- [Documentación de React Router](https://reacttraining.com/react-router/)
